@@ -1,5 +1,5 @@
 body{
-    background-image:url("img/bkgdpic.jpeg");
+    background-color:lightslategrey;
     font-size: normal;
     font-family:arial;
     font-style: normal;
@@ -17,12 +17,12 @@ h1
     font-size: o.75rem;
     color:orange;
 }
-.lst{
+.exper{
     background-color:grey;
 font-family: 'Courier New', Courier, monospace;
 color: rgb(24, 104, 90);
 }
-.skill{
+.quali{
     background-color: orange;
 }
 .lightcolor
