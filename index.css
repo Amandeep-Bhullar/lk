@@ -1,0 +1,51 @@
+body{
+    background-image:url("img/bkgdpic.jpeg");
+    font-size: normal;
+    font-family:arial;
+    font-style: normal;
+    font-weight:normal;
+    text-align: left;
+    padding: 1em;
+} 
+h1
+{
+    color:rgb(111, 0, 255);
+    font-family: Helvetica, sans-serif;
+}
+.paragraph{
+    background-color: skyblue;
+    font-size: o.75rem;
+    color:orange;
+}
+.lst{
+    background-color:grey;
+font-family: 'Courier New', Courier, monospace;
+color: rgb(24, 104, 90);
+}
+.skill{
+    background-color: orange;
+}
+.lightcolor
+{
+color: yellow;
+}
+li{
+    color: rgb(32, 18, 18);
+}
+.clslogo{
+    height: 55px;
+    align: top;
+}
+
+.hobby{
+    background-color: aquamarine;
+}
+.aim{
+    background-color: blanchedalmond;
+}
+.intro{
+    background-color: lightpink;
+}
+.img{
+   text-align: center;
+}
